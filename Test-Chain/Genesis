@@ -1,1 +1,5 @@
+Genesis file for chain "Test_Chain"
+
+wget -O genesis.json https://github.com/.../genesis/test_chain/genesis.json
+mv genesis.json ~/.test_chaind/config
 
