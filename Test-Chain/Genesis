@@ -1,5 +1,6 @@
 Genesis file for chain "Test_Chain"
 
-wget -O genesis.json https://github.com/.../genesis/test_chain/genesis.json
+wget -O genesis.json https://github.com/nochanc3/Projects-Service/blob/main/Test-Chain/Files/genesis.json
+
 mv genesis.json ~/.test_chaind/config
 
